@@ -1,0 +1,3 @@
+--macro includeFile('shebang-header')
+-D source-header=
+

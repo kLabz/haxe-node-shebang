@@ -1,0 +1,9 @@
+{
+  "name": "node-shebang",
+  "description": "Add shebang to your haxe-nodejs generated files",
+  "version": "0.1.0",
+  "releasenote": "Initial release",
+  "url": "https://github.com/kLabz/haxe-node-shebang",
+  "license": "MIT",
+  "contributors": ["klabz"]
+}
